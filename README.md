@@ -9,7 +9,12 @@ How to:
 Download version you need listed above;
 Unzip it;
 Close Xcode;
-Copy and paste unziped folder by path: "/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/DeviceSupport/" (hierarchy like - https://github.com/filsv/TVOSDeviceSupport/blob/master/Screen%20Shot%202018-09-16%20at%2020.07.45.png);
+Copy and paste unziped folder by path: "/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/DeviceSupport/" 
+
+<p align="center">hierarchy like this:</p>
+
+![alt text](https://github.com/filsv/TVOSDeviceSupport/raw/master/Screen%20Shot%202019-08-02%20at%2015.23.57.png)
+
 Reopen Xcode;
 
 Thank You.
