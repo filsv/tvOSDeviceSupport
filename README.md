@@ -1,8 +1,8 @@
 # TVOSDeviceSupport
 
-Xcode TVOS DeviceSupport (9.0 - 11.4 (15L576))
+Xcode TVOS DeviceSupport (9.0 - 13.0)
 
-Device Support files for Xcode, from TVOS 9, up to iOS 11.4 (15L576).
+Device Support files for Xcode, from tvOS 9.0, up to tvOS 13.0.
 
 How to:
 
