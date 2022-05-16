@@ -1,7 +1,7 @@
 # TVOSDeviceSupport
 
 Xcode tvOS DeviceSupport (9.0 - 15.4)
-[[iOS](https://github.com/filsv/iPhoneOSDeviceSupport) | [tvOS](https://github.com/filsv/watchOSDeviceSupport)];
+[[iOS](https://github.com/filsv/iPhoneOSDeviceSupport) | [WatchOS](https://github.com/filsv/watchOSDeviceSupport)];
 
 Device Support files for Xcode, from tvOS 9.0, up to tvOS 15.4.
 
