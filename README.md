@@ -1,11 +1,20 @@
 # TVOSDeviceSupport
 
-Xcode TVOS DeviceSupport (9.0 - 14.0)
+Xcode TVOS DeviceSupport (9.0 - 15.4)
 
-Device Support files for Xcode, from tvOS 9.0, up to tvOS 14.0.
+Device Support files for Xcode, from tvOS 9.0, up to tvOS 15.4.
 
-**Latest releases:**</br>
+**Most recent releases:**</br>
+**tvOS 15.4** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/15.4.zip) </br>
+**tvOS 15.2** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/15.2.zip) </br>
+**tvOS 15.0** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/15.0.zip) </br>
 
+**tvOS 14+:**</br>
+**tvOS 14.5** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/14.5.zip) </br>
+**tvOS 14.4** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/14.4.zip) </br>
+**tvOS 14.3** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/14.3.zip) </br>
+**tvOS 14.2** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/14.2.zip) </br>
+**tvOS 14.1** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/14.1.zip) </br>
 **tvOS 14.0** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/14.0.zip) </br>
 **tvOS 13.4** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/13.4.zip) </br>
 **tvOS 13.3** - [Download](https://github.com/filsv/TVOSDeviceSupport/raw/master/13.3.zip) </br>
